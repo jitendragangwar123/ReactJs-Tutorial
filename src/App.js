@@ -1,8 +1,8 @@
+import Header from "./components/Header";
 function App() {
-  const name="Jacob";
   return (
     <div className="App">
-      <h1>Hello {name}</h1>
+      <Header/>
     </div>
   );
 }
