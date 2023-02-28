@@ -8,10 +8,12 @@ const Header = ({title}) => {
   )
 }
 
+//default prop type
 Header.defaultProps={
   title:'Task Tracker'
 }
 
+// define the props types
 Header.propTypes={
   title: PropTypes.string.isRequired,
 }
