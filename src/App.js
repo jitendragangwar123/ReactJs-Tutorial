@@ -36,6 +36,7 @@ function App() {
   return (
     <div className="container">
       <Header/>
+      {/*tasks length should be greater than zero*/}
       {tasks.length>0 ?(
       <Tasks tasks={tasks} onDelete={deleteTask}/>
       ):(
@@ -46,3 +47,4 @@ function App() {
 }
 
 export default App;
+
