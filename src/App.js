@@ -17,13 +17,13 @@ function App() {
     },
    {
        id:3,
-       text:'Roaming',
+       text:'Office work',
        day:'Feb 7th at 2:00 PM',
        reminder:false, 
     },
     {
        id:4,
-       text:'Going to office',
+       text:'Go to office',
        day:'Feb 8th at 10:00 PM',
        reminder:true, 
     },
@@ -47,4 +47,3 @@ function App() {
 }
 
 export default App;
-
