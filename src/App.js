@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="container">
       <Header/>
-      {/*tasks length should be greater than zero athorwise 
+      {/*tasks length should be greater than zero otherwise 
 No Tasks to Show */}
       {tasks.length>0 ?(
       <Tasks tasks={tasks} onDelete={deleteTask}/>
