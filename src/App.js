@@ -17,7 +17,7 @@ function App() {
     },
    {
        id:3,
-       text:'Office work',
+       text:'Zym',
        day:'Feb 7th at 2:00 PM',
        reminder:false, 
     },
