@@ -1,4 +1,4 @@
-## Introduction
+### Introduction
 - `React` is the `JavaScript library` to build dynamic and interactive user interfaces.
 - Developed at Facebook in 2011.
 - Currently most widely used JS library for front-end devlopment.
